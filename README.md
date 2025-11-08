@@ -52,3 +52,6 @@ You: /exit
 ## Disclaimer
 
 This is an unofficial wrapper. The author is not responsible for any misuse or consequences of using this tool. Use at your own risk and in accordance with chat-deep.ai's terms of service.
+
+## Note
+Most of the code was reformatted using AI to be easier to maintain by each user.
